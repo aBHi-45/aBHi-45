@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Ripik.ai**
+- 🔭 I’m currently working at **Ripik.ai**
 - 🌱 I’m currently learning **ReactJs, Node.js, Electron.js, Capacitor.js, Flutter, DSA, Threejs**
 - 💬 Ask me about **HTML CSS JavaScript Go Dart C++**
 - 📫 How to reach me **kumar.abhi.modi@gmail.com**
